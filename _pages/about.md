@@ -1,15 +1,17 @@
 ---
-layout: single
 title: "Welcome to My Page"
+comments: yes
+layout: single
 permalink: /
-comments: true
-author_profile: true
-toc: true
-toc_label: "Table of Contents"
-toc_sticky: false
+author_profile: yes
+toc: yes
+toc_label: Table of Contents
+toc_sticky: no
 ---
 
 This repo contains files to my projects and course work. 
+
+# Big title
 
 ### Contact
 
